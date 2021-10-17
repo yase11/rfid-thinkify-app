@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.thinkify.reader</groupId>
+  <artifactId>thinkify-reader-api</artifactId>
+  <versioning>
+    <release>1</release>
+    <versions>
+      <version>1</version>
+    </versions>
+    <lastUpdated>20211017120221</lastUpdated>
+  </versioning>
+</metadata>
